@@ -1,0 +1,34 @@
+{
+  "name": "bootstrap-certification",
+  "version": "1.0.0",
+  "description": "Bootstrap certification",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanisoave/bootstrap-certification.git"
+  },
+  "keywords": [
+    "Course",
+    "Bootstrap",
+    "Certification"
+  ],
+  "author": "Giovani Soave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giovanisoave/bootstrap-certification/issues"
+  },
+  "homepage": "https://github.com/giovanisoave/bootstrap-certification#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-scss": "^1.4.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-certification",
+  "description": "Bootstrap certification",
+  "main": "index.js",
+  "authors": [
+    "Giovani Soave"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Course",
+    "Bootstrap",
+    "Certification"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
