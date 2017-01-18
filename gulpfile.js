@@ -5,7 +5,7 @@
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var cleanCSS = require('gulp-clean-css');
-var htmlmin = require('gulp-html-minifier');
+var htmlmin = require('gulp-htmlmin');
 
 
 gulp.task('sass', function () {
